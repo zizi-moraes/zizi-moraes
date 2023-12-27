@@ -1,25 +1,37 @@
-## Olá! Eu sou a Zizi Moraes
+<div style="text-align: center;">
 
-- 🔭 Sou QA
-- 🌱 Atualmente estou estudando Typescript
-- 📫 Contato: zmoraes2013@gmail.com
-- 😄 Pronouns: ela/dela
+<h2>🧑‍💻 Sobre Mim</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zizi-moraes&show_icons=true&theme=radical)
+<p>Olá! Sou Zilmar, Engenheira de Qualidade (QA) com mais de 10 anos de experiência. Especializada em teste de software, automação e melhoria contínua.</p>
 
-<div style="display: inline_block"><br>
+<h2>🚀 Habilidades</h2>
+<ul>
+  <li><strong>Teste de Software:</strong> Estratégias funcional e não funcional.</li>
+  <li><strong>Automatização:</strong> Experiência em automacão Web e API.</li>
+  <li><strong>Colaboração:</strong> Trabalho próximo a equipes ágeis para entregas rápidas e confiáveis.</li>
+</ul>
+
+<h2>🌎 Onde me Encontrar</h2>
+<a href = "mailto:zmoraes2013@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/zizi-moraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "https://www.youtube.com/channel/UCIv7_QLtT-ViDKH5KgIID4A"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<br>
+<p>Aberta a networking e discussões sobre teste de software, automação e qualidade. Vamos conversar!</p>
+
+<h2>💻 Linguagens</h2>  
+<div style="margin-bottom: 10px;">
   <img align="center" alt="Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
 </div>
 
- ##
+<br>
 
-<div>
+<h2>🔧 Ferramentas</h2>
+<div style="margin-bottom: 10px;">
   <img align="center" alt="Cypress" height="30" width="30" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png">
   <img align="center" alt="Playwright" height="40" width="40" src="https://user-images.githubusercontent.com/40306400/224423597-9d4c0e77-b642-45e4-97e6-a82751e71c5d.svg">
   <img align="center" alt="Selenium" height="28" width="30" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png">
@@ -31,10 +43,7 @@
   <img align="center" alt="Android-Studio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"> 
 </div>
   
-  ##
+
   
-<div> 
-  <a href = "mailto:zmoraes2013@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/zizi-moraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
 
